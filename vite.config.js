@@ -13,5 +13,5 @@ export default defineConfig({
     "react-dnd": "^16.0.1",
     "react-dnd-html5-backend": "^16.0.1",
     "recharts": "^2.12.0"
-  }
+  },
 })
